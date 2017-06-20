@@ -1,0 +1,20 @@
+{
+  "name": "typedef-jquery-illustration",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Bryan Wood <whenidev@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}

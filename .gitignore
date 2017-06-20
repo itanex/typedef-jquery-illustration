@@ -1,0 +1,7 @@
+# Third Party Libraries
+node_modules
+bower_components
+
+# Compile/Transpile Artifacts
+*.js
+*.js.map
